@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Ask a Cowboy</title>
+	<atom:link href="/ask-a-cowboy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Hello cowboys &#38; vampires!</description>
+	<lastBuildDate>Sun, 31 Aug 2014 03:11:18 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Dear Cowboy: Cowboy wisdom from author Clark Hays &#124; Pumpjack Press</title>
+		<link>/ask-a-cowboy/comment-page-1/#comment-23393</link>
+		<dc:creator><![CDATA[Dear Cowboy: Cowboy wisdom from author Clark Hays &#124; Pumpjack Press]]></dc:creator>
+		<pubDate>Sun, 31 Aug 2014 03:11:18 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=6#comment-23393</guid>
+		<description><![CDATA[[&#8230;] the world, and readers are responding, wanting a taste of their own cowboy wisdom. Check out the Ask-a-Cowboy column over at the author&#8217;s website.  The questions are, unsurprisingly, mostly about love in [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] the world, and readers are responding, wanting a taste of their own cowboy wisdom. Check out the Ask-a-Cowboy column over at the author&#8217;s website.  The questions are, unsurprisingly, mostly about love in [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ask a Cowboy &#171; Pumpjack Press</title>
+		<link>/ask-a-cowboy/comment-page-1/#comment-33</link>
+		<dc:creator><![CDATA[Ask a Cowboy &#171; Pumpjack Press]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2012 04:43:00 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=6#comment-33</guid>
+		<description><![CDATA[[...] but I don’t know what’s wrong with him. He has been acting different. More distant &#8230; Read more &#062;&#062; Share [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] but I don’t know what’s wrong with him. He has been acting different. More distant &#8230; Read more &gt;&gt; Share [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
